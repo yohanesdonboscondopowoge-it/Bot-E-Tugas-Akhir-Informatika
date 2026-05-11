@@ -1,2 +1,2 @@
 # Bot-E-Tugas-Akhir-Informatika
-bot untuk melihat updatean jadwal seminar informatika by wa
+bot wa untuk melihat updatean jadwal seminar informatika by
