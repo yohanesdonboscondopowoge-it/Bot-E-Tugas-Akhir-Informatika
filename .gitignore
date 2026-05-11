@@ -1,10 +1,8 @@
 # === Data Sensitif & Rahasia ===
-# Jangan pernah upload file ini karena berisi password/cookie portal Anda
 config.py
 auth_session/
 
 # === Folder Library (Dependencies) ===
-# Folder ini ukurannya sangat besar dan bisa diinstall ulang lewat package.json/requirements.txt
 node_modules/
 .venv/
 venv/
@@ -12,7 +10,6 @@ env/
 __pycache__/
 
 # === File Sampah & Hasil Testing ===
-# File yang sudah tidak digunakan atau hasil uji coba
 biodata.html
 cek_data.py
 bot_wa_unmul.py
